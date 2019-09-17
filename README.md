@@ -1,5 +1,7 @@
 # C2.10
 
+Для запуска сервера перейдите в папку backend и наберите: python main.py
+
 Сервер реализован на waitress. Он прописан в my_config.conf
 В базовых настройках без my_config.conf сервер стоит auto
 
